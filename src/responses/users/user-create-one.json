@@ -1,0 +1,9 @@
+{
+  "method": "POST",
+  "path": "\\/user",
+  "data": {
+    "id": "34634643743",
+    "username": "new_username",
+    "email": "new_user@email.com"
+  }
+}

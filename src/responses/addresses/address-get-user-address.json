@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "path": "\\/address\\/user\\/\\d+",
+  "data": {
+    "id": "12",
+    "userId": "1",
+    "street": "123 Road",
+    "city": "Springfield",
+    "state": "Pennsylvania",
+    "country": "USA"
+  }
+}

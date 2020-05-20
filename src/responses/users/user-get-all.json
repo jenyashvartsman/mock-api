@@ -1,0 +1,21 @@
+{
+  "method": "GET",
+  "path": "\\/user",
+  "data": [
+    {
+      "id": "1",
+      "username": "username1",
+      "email": "user1@email.com"
+    },
+    {
+      "id": "2",
+      "username": "username2",
+      "email": "user2@email.com"
+    },
+    {
+      "id": "3",
+      "username": "username3",
+      "email": "user3@email.com"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "method": "PUT",
+  "path": "\\/user\\/\\d+",
+  "data": {
+    "id": "23623623",
+    "username": "updated_username",
+    "email": "updated_user@email.com"
+  }
+}

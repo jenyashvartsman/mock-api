@@ -1,0 +1,9 @@
+{
+  "method": "DELETE",
+  "path": "\\/user\\/\\d+",
+  "data": {
+    "id": "6236236",
+    "username": "deleted_username",
+    "email": "deleted_user@email.com"
+  }
+}
